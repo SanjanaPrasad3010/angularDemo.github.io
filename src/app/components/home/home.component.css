@@ -1,0 +1,12 @@
+.container-home {
+    background-image: url('../../../assets/home-background.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 80%;
+    margin: auto;
+    background-size: cover;
+    display: flex
+}
+.black-bckgrnd {
+background-color: black;
+}

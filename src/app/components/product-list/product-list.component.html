@@ -1,0 +1,7 @@
+
+<span *ngFor="let each of productList">
+    <mat-card class="w-20">
+        <img mat-card-image src="{{each.images[0]}}">
+        <mat-card-content>{{each.title}}</mat-card-content>
+    </mat-card>
+</span>
